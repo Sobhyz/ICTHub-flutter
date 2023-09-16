@@ -1,16 +1,4 @@
 # task3
+![Screen Shot 2023-09-16 at 3 37 03 PM](https://github.com/Sobhyz/ICTHub-flutter/assets/93830386/950101d1-49b3-4953-bad9-36ed60cf34d6)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2023-09-16 at 3 37 03 PM](https://github.com/Sobhyz/ICTHub-flutter/assets/93830386/9b62839b-f6c8-496e-9150-417b5f456265)
